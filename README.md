@@ -1,10 +1,10 @@
-# Reacty Client
+# Reacty
 a dependency free practice project that includes react/jsx/babel/vite minimal level poc implementation
 
 ## Getting Started
 1. clone project
 ```
-git clone https://github.com/cbot918/reacty-client && cd reacty-client
+git clone https://github.com/cbot918/reacty && cd reacty
 ```
 
 2. build project
