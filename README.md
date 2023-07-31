@@ -12,7 +12,7 @@ git clone https://github.com/cbot918/reacty && cd reacty
 npm run build
 ```
 
-3. see the result with build/index.html ( its ok to direct open in file browse)
+3. see the result with build/index.html ( can open with live server)
 
 ## Edit Code
 - in src/app.js, can edit innertext and style (support one attribute currently :< )
